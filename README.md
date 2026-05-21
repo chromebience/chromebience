@@ -1,16 +1,50 @@
-## Hi there 👋
+# ☁️ Chromebience
 
-<!--
-**chromebience/chromebience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chromebience is a premium ambient sound Chrome extension designed for:
 
-Here are some ideas to get you started:
+* deep focus
+* studying
+* sleep
+* relaxation
+* meditation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mix multiple ambience sounds together with seamless looping and beautiful modern UI.
+
+## ✨ Features
+
+* Multi-sound ambience mixer
+* Seamless audio looping
+* Background playback
+* Beautiful dark/light themes
+* Preset focus modes
+* Sleep timer
+* Compact premium UI
+* Smooth animations
+* Pastel ambient aesthetic
+
+## 🌙 Included Ambiences
+
+* Rain
+* Thunderstorm
+* Ocean Waves
+* Fireplace
+* Wind
+* River
+* Birds
+* Frogs
+* Crickets
+* Brown Noise
+* White Noise
+* Pink Noise
+
+## 🚀 Status
+
+Currently in active development.
+
+## 📸 Screenshots
+
+(Screenshots coming soon)
+
+## 💙 Vision
+
+Chromebience aims to create a calming, immersive, cinematic ambience experience directly inside the browser.
